@@ -10,8 +10,8 @@
 5. {DAI88079} -> {FRO40251}, Confidence: 0.986726
 
 --- Top 5 Association Rules for Triples (Confidence >= 75%) ---
-1. {DAI23334, ELE92920} -> {DAI62779}, Confidence: 1.000000
+1. {ELE92920, DAI23334} -> {DAI62779}, Confidence: 1.000000
 2. {DAI31081, GRO85051} -> {FRO40251}, Confidence: 1.000000
-3. {DAI55911, GRO85051} -> {FRO40251}, Confidence: 1.000000
+3. {GRO85051, DAI55911} -> {FRO40251}, Confidence: 1.000000
 4. {DAI62779, DAI88079} -> {FRO40251}, Confidence: 1.000000
 5. {DAI75645, GRO85051} -> {FRO40251}, Confidence: 1.000000
