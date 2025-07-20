@@ -1,0 +1,17 @@
+--- Found 647 Frequent 1-Itemsets ---
+--- Found 1334 Frequent 2-Itemsets ---
+--- Found 233 Frequent 3-Itemsets ---
+
+--- Top 5 Association Rules for Pairs (Confidence >= 75%) ---
+1. {DAI93865} -> {FRO40251}, Confidence: 1.000000
+2. {GRO85051} -> {FRO40251}, Confidence: 0.999176
+3. {GRO38636} -> {FRO40251}, Confidence: 0.990654
+4. {ELE12951} -> {FRO40251}, Confidence: 0.990566
+5. {DAI88079} -> {FRO40251}, Confidence: 0.986726
+
+--- Top 5 Association Rules for Triples (Confidence >= 75%) ---
+1. {DAI23334, ELE92920} -> {DAI62779}, Confidence: 1.000000
+2. {DAI31081, GRO85051} -> {FRO40251}, Confidence: 1.000000
+3. {DAI55911, GRO85051} -> {FRO40251}, Confidence: 1.000000
+4. {DAI62779, DAI88079} -> {FRO40251}, Confidence: 1.000000
+5. {DAI75645, GRO85051} -> {FRO40251}, Confidence: 1.000000
